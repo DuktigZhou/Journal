@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Tom/Desktop/ActivityTest - 1128/app/src/main/res/layout/note_item.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable-anydpi/ic_event_dark.xml" value="0.3398148148148148" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/drawable_round_edge.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_account_24.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_add_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.14868421052631578" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2179824561403509" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2074561403508772" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.24517543859649124" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.2074561403508772" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_done_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2074561403508772" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_menu_24.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_menu_dark_24.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_account_circle_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_book_24.xml" value="0.3398148148148148" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_build_circle_24.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_delete_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_done_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_done_outline_20.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_done_outline_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_outline_loyalty_24.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_people_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_round_arrow_back_24.xml" value="0.29210526315789476" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_round_emoji_people_24.xml" value="0.34037963761863677" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_round_menu_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/drawable/ic_today_24.xml" value="0.2355263157894737" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout-w1240dp/fragment_edit_note.xml" value="0.261328125" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/a.xml" value="0.2" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/activity_1.xml" value="0.18157894736842106" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/activity_a.xml" value="0.3140350877192982" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/activity_view_test.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/bottom_sheet_list_whit_toolbar.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/bottom_sheet_test.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/bottomsheet_dialog_fragment.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/card_test.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/cb.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/first_layout.xml" value="0.27309782608695654" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/fragment_bottomsheet_dialog.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/fragment_create_note.xml" value="0.4" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/fragment_note_edit.xml" value="0.4" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/fruit_item.xml" value="0.21842105263157896" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/home.xml" value="0.22" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/layout.xml" value="0.17763157894736842" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/list_item.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/login.xml" value="0.264" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/main.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/menu.xml" value="0.22807017543859648" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/nav_header.xml" value="0.19035087719298247" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/new1.xml" value="0.11865942028985507" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/new2.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/new3.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/note_debug.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/note_edit.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/note_item.xml" value="0.18157894736842106" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/relativelayout.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/shape.xml" value="0.125" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/signup.xml" value="0.3140350877192982" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/test1.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/textview.xml" value="0.22" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/todo_debug.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/todo_edit.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/todo_item.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/welcome.xml" value="0.4" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/layout/welcome1.xml" value="0.19473684210526315" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/menu/main.xml" value="0.3729166666666667" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/menu/nav_manu.xml" value="0.3140350877192982" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/menu/note_edit_menu.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/Tom/Desktop/Android/ActivityTest/app/src/main/res/menu/toolbar.xml" value="0.22821397756686798" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/activity_login.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/activity_signup.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/activity_welcome.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/dialog_login.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_home.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_note.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_note_edit.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_todo.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_todo_add.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_todo_edit_bottom_sheet.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/fragment_user.xml" value="0.22" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/item_note.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/item_todo.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/layout/nav_header.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Journal/app/src/main/res/menu/toolbar_note.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/drawable/ic_baseline_check_circle_outline_24.xml" value="0.33771929824561403" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/drawable/ic_outline_dashboard_24.xml" value="0.33771929824561403" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/drawable/ic_outline_search_24.xml" value="0.33771929824561403" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_fragment_todo_add.xml" value="0.3162280701754386" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_login.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_note.xml" value="0.2" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_signup.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_test.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_todo.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/activity_welcome.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/dialog_login.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_1.xml" value="0.2631578947368421" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_2.xml" value="0.2631578947368421" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_account.xml" value="0.536" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_dashboard.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_home.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_note.xml" value="0.12019641332194705" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_note_edit.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_todo.xml" value="0.12019641332194705" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_todo_add.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_todo_edit.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_todo_edit_bottom_sheet.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/fragment_user.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/item_note.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/item_todo.xml" value="0.2" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/login.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/main.xml" value="0.2469298245614035" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/nav_header.xml" value="0.3162280701754386" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/note_debug.xml" value="0.20277777777777778" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/note_edit.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/note_item.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/signup.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/todo_debug.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/layout/todo_item.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/main.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.2631578947368421" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/nav_menu.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/toolbarNote.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/toolbar_main.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/toolbar_note.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/toolbar_todo.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Android/Notes_Debug/app/src/main/res/menu/toolbar_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.33771929824561403" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/discarded_activity_login.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/discarded_activity_signup.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/discarded_activity_welcome.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/discarded_nav_header.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/fragment_home.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/fragment_note.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/fragment_todo.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/fragment_todo_add.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/layout/fragment_user.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/menu/toolbar_note.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/menu/toolbar_todo.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/menu/toolbar_user.xml" value="0.3206140350877193" />
+        <entry key="..\:/Users/Tom/Desktop/Journal/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

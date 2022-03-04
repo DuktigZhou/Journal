@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="account">请输入账号</string>
+    <string name="password">请输入密码</string>
+    <string name="password2">请再次输入密码</string>
+    <string name="signIn">登录</string>
+    <string name="signUp">注册</string>
+    <string name="begin">开始使用</string>
+    <string name="Welcome">欢迎！</string>
+    <string name="App">Notes</string>
+    <string name="Visitor">暂不登录</string>
+
+    <string name="user">账户</string>
+    <string name="index">主页</string>
+    <string name="note">笔记</string>
+    <string name="todo">待办</string>
+    <string name="del">已删除</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+    <string name="rememberPw">记住密码</string>
+
+</resources>

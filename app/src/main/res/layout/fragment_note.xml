@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<androidx.drawerlayout.widget.DrawerLayout-->
+
+<!--    android:id="@+id/drawerLayout"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="match_parent"-->
+<!--    android:fitsSystemWindows="true">-->
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:id="@+id/CoordinatorLayoutContainer">
+
+            <com.google.android.material.appbar.AppBarLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                app:elevation="0dp">
+
+<!--                <com.google.android.material.card.MaterialCardView-->
+<!--                    android:id="@+id/CardView"-->
+<!--                    android:clickable="true"-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_margin="16dp"-->
+<!--                    app:cardElevation="5dp"-->
+<!--                    android:background="@color/white"-->
+<!--                    app:cardCornerRadius="10dp">-->
+
+                    <com.google.android.material.appbar.MaterialToolbar
+                        android:id="@+id/topAppBarNote"
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        app:menu="@menu/toolbar_note"
+                        app:navigationIcon="@drawable/ic_account"
+
+                        android:background="@color/white"
+                        app:titleTextColor="@color/black"
+                        style="@style/Widget.MaterialComponents.Toolbar.Primary">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/note"
+                            android:textSize="22sp"
+                            android:textColor="@color/black"
+                            android:layout_gravity="center"
+                            android:gravity="center"
+                            />
+
+                    </com.google.android.material.appbar.MaterialToolbar>
+<!--                </com.google.android.material.card.MaterialCardView>-->
+            </com.google.android.material.appbar.AppBarLayout>
+
+
+        <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+            android:id="@+id/swipeRefreshNote"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/recyclerViewNote"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="6dp"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+        </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/fabAddNote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|center"
+            android:layout_margin="32dp"
+            android:focusable="true"
+            android:clickable="true"
+            app:backgroundTint="@color/Blue"
+            app:icon="@drawable/ic_add_24"
+            android:text="@string/addNote"
+            android:gravity="center"
+            android:textColor="@color/white"
+            app:iconTint="@color/white" />
+
+<!--    <com.google.android.material.navigation.NavigationView-->
+<!--        android:id="@+id/bottomNavigationDrawer"-->
+<!--        app:menu="@menu/nav_menu"-->
+<!--        app:headerLayout="@layout/nav_header"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        app:layout_behavior="@string/bottom_sheet_behavior"-->
+<!--        app:behavior_hideable="true" />-->
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+

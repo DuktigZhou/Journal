@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/user"
+            android:icon="@drawable/ic_outline_account_circle_24"
+            android:title="@string/user"/>
+
+    </group>
+
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item
+            android:id="@+id/bin"
+            android:icon="@drawable/ic_outline_delete_24"
+            android:title="@string/del"/>
+
+    </group>
+
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group3">
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_outline_info_24"
+            android:title="@string/about"/>
+
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_outline_settings_24"
+            android:title="@string/setting" />
+
+        <item
+            android:id="@+id/exitApp"
+            android:icon="@drawable/ic_outline_code_24"
+            android:title="退出应用" />
+    </group>
+</menu>

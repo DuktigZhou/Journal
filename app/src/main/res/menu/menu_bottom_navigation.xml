@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="@string/note"
+        android:id="@+id/btn1"
+        android:icon="@drawable/ic_outline_note_24"/>
+
+    <item
+        android:title="@string/todo"
+        android:id="@+id/btn2"
+        android:icon="@drawable/ic_baseline_check_circle_outline_24"/>
+
+    <item
+        android:title="@string/user"
+        android:id="@+id/btn3"
+        android:icon="@drawable/ic_outline_account_circle_24"/>
+
+</menu>

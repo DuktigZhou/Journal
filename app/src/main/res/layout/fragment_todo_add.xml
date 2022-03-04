@@ -1,0 +1,44 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="85dp"
+    android:orientation="horizontal"
+    android:layout_gravity="bottom"
+    android:paddingStart="14dp"
+    android:paddingEnd="4dp"
+    android:paddingTop="8dp"
+    android:paddingBottom="14dp"
+    android:background="@color/white">
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textField1"
+        android:layout_gravity="center"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:hint="@string/addTodo"
+        android:textSize="16sp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:textColorHint="@color/Blue">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/todoContentInput"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:inputType="textMultiLine"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Button
+            android:id="@+id/todoAdd"
+            android:layout_width="40dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="4dp"
+            android:layout_marginTop="2dp"
+            android:layout_gravity="center"
+            app:icon="@drawable/ic_round_arrow_upward_24"
+            app:iconTint="@color/grey"
+            android:textColor="@color/grey"
+            style="@style/Widget.AppTheme.Button.IconButton"/>
+
+</LinearLayout>
